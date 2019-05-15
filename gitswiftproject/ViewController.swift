@@ -16,6 +16,10 @@ class ViewController: UIViewController {
         print("x")
         print("x2")
     }
+    
+    func x(){
+        //todo
+    }
 
 
 }
